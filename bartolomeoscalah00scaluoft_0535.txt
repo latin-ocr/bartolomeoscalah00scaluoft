@@ -1,0 +1,220 @@
+INDEX 111
+
+17. Timores
+18. Immortalitas
+19. Ingratitudo
+20. Fides
+
+21. Casus
+
+22. Religio
+
+23. Utilitas
+
+24. Gloria militaris
+25. Salus
+
+26. Leges
+
+27. Assentatio
+28. Providentia
+29. Victoria
+
+30. Imperatoria
+31. Rapina
+
+32. Zelotypia
+33. Spes
+
+34. Posteritas
+35. Fatum
+
+36. Neglegentia
+37. Carmen
+
+38. Historia
+
+39. Amicitia
+40. Iurgium
+
+41. Tempus
+
+42. Libertas
+
+43. Metus
+
+44. Gloria
+
+45. Prudentia
+46. Excellentia
+47. Sors
+
+48. Quies
+
+49. Iniuria
+
+50. Astrologia
+51. Invidia
+
+52. Rumor
+
+53. Perseverantia
+54. Magnanimitas
+55. Condonatio
+56. Odium
+
+57. Aurum
+
+58. Vita
+
+311
+311
+312
+312
+312
+312
+313
+313
+313
+314
+314
+314
+315
+315
+315
+315
+316
+316
+317
+317
+317
+317
+318
+318
+318
+319
+319
+319
+320
+320
+320
+321
+321
+321
+321
+322
+322
+323
+323
+323
+324
+324
+
+59. Perturbationes
+60. Bellum
+
+61. Patientia
+62. Dolus malus
+63. Sapientia
+64. Medicina
+65. Veritas
+
+66. Anima
+
+67. Cupiditas
+68. Temptatio
+69. Loquacitas
+70. Beneficium
+71. Fortitudo
+72. Dii
+
+73. Munera
+
+74. Corona
+
+75. Conscientia
+76. Regnum
+77. Cantus
+
+78. Voluptas
+79. Perplexitas
+80. Tempus
+
+81. Desperatio
+82. Res familiaris
+83. Amor
+
+84. Iustitia
+
+85. Dies
+
+86. Dies
+
+87. Dies
+
+88. Lux
+
+89. Infortunium
+90. Natura
+
+91. Virtus
+
+92. Invidia
+
+93. Nobilitas
+94. Beatitas
+
+95. Avaritia
+96. Vanitas
+
+97. Parcitas
+
+98. Doctrinae
+99. Celeritas
+100. Numerus
+
+495
+
+324
+324
+325
+325
+325
+325
+326
+327
+327
+327
+327
+328
+328
+329
+329
+329
+329
+329
+330
+330
+330
+331
+331
+331
+331
+333
+333
+333
+333
+333
+334
+334
+334
+335
+335
+335
+336
+336
+336
+336
+337
+337
+

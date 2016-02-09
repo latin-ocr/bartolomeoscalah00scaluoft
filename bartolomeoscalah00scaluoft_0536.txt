@@ -1,0 +1,46 @@
+496 INDEX 1v
+
+INDEX IV APOLOGUES II
+1. [Homo] 365 42. Aucupium 378
+2. [Aetas] 366 43. Occasio 378
+3. Praestabilitas 366 44. Livor 378
+4. Vulgus 366 45. Vita 378
+5. Innocentia 367 46. Dignitas [II] 379
+6. Simplicitas 367 47. Mortui 379
+7. Paupertas 367 48. Consilium 380
+8. Aegrotus 367 49. Sufficientia 380
+9. Spectaculum 368 50. Obsequium 380
+10. Monstrum 368 51. Divinatio 380
+11. Consuetudo 368 52. Vires 380
+12. Assentatio 369 53. Vanitas 380
+13. [Musae ?] 369 54. Insania 381
+14. Prodigus 369 55. Expurgatio 381
+15. Paupertas [Π] 369 56. Excellentia 381
+16. Umbrae 370 57. Fortuna [H] 381
+17. Venus 370 58. Pactum 382
+18. Proelium 370 59. Aetas [Π] 382
+19. Fortuna 371 60. Praeter spem 383
+20. Mors 371 61. Sors 383
+21. Requies 371 62. Severitas 383
+22. Modestia 371 63. Amor 383
+23. Certamen 372 64. Auctoritas 383
+24. Homo [Π] 372 65. Benivolentia 384
+25. Seditio 372 66. Inopia 384
+26. Miraculum 372 67. Querela 384
+27. Beneficium 373 68. Occasio [Π] 384
+28. Otium 373 69. Lumen 385
+29. Vera laus 373 70. Litterae 385
+30. Pecunia 374 71. Umbra [H] 386
+31. Umbrae [H] 375 72. Mutatio 386
+32. Affluentia 375 73. Iniuria 386
+33. Uxoria 375 74. Solertia 386
+34. Assuetudo 375 75. [ ....... .] 386
+35. Dignitas 376 76. Officium 387
+36. Meretricium 376 77. Fundamentum 387
+37. Mores 376 78. Matemathica 387
+38. Admiratio 377 79. Opes 387
+39. Valitudo 377 80. Immortalitas 387
+40. Audacia 377 81. Miles 388
+
+41. Thesauri 377 82. Vivere 388
+

@@ -1,0 +1,52 @@
+INTRODUCTION xv
+
+by including poems and sermons as well as Scala's other writings. He
+emended successive drafts with indefatigable patience and care. Because this
+longum opus et arduum owes so much to him, I dedicate it to him in
+
+homage and with affection.
+
+11. EDITORIAL PROCEDURE
+
+Ι have made little attempt to correct Scala or change his style. His Latin
+works contain many mistakes (especially in prosody and metrics) and his
+Italian texts are idiomatic by later sixteenth-century standards. Where they
+exist I follow autograph versions. I have made no attempt to normalize
+except in the case of punctuation and the use of capital letters, for which
+I have adopted modern practice for salutations‚ dating and months, and in
+adjectives derived from place-names (Florentinus, Fiorentino). There is one
+exception, letter 224 to Marco Giannarini, where because the punctuation
+was corrected by Scala himself, Ι have left it as he corrected it. English
+spelling and punctuation has been adopted throughout for the Introduction
+and notes to the text.
+
+Latin texts: in general classical orthography has been respected, as it
+usually was by Scala on the evidence provided by his autograph writings.
+The use of the dipthong has therefore been normalised without respecting
+oscillations in the manuscripts between ae and oe; relligio is normalised as
+religio; and y has normally been replaced by i in words like sylva, lachry-
+ma, sydus, etc.
+
+It should also be noted that in his autograph Scala normally uses the
+nasal consonant before q, as in nanque, quanquam, tanquam, etc.
+
+In the case of proper names, by contrast, no attempt has been made to nor-
+malise the spelling, even if incorrect.
+
+Italian texts: syntactic doubling has not been retained when words are
+split, but, in accordance with current practice, it has been retained when
+they are unsplit or unsplittable, as in nollo, evvi.
+
+Fifteenth-century practice has been followed, in accordance with Scala’s
+autograph, in the following forms: in the past tense, -amo, -emo, -ebero,
+not -am‹m›o, -em‹m›o, -eb‹b›ero; single consonants in aportatore not app-‚
+comodo, accomodato, agiunto, magiore, vego; -eza, uzo, not—ezza, -uzzo‚
+thus mezo, adirizassi, prezo, poliza3 double consonants in (h)abbino,
+(h)abbiamo‚ (h)anno, faccia, debba; ct, tt, pt follow their Latin derivation:
+ct not tt in tucti‚ fructi, decto, nocte, pacto, strectamente, proficto, effecto,
+auctoritate, octo, Vectori, etc.; tt or t in battaglia‚ lettera, mattina‚ mettere,
+Matteo, scrutineo; pt in scripto, concepto, etc., but citta not cipta; cq in
+nacque, not naque; sanza not senza; h treated as optional as in (h)avere
+forms, but anno (year) not ano or hanno; anchora, hora, not ancora, ora;
+but luogo, raccomando, bocca, manca, accade, turcos not luogho, rachom·
+
